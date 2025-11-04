@@ -1,12 +1,13 @@
 # Streamlit LlamaIndex RAG with Citations
 
-This project is a web application built with Streamlit that implements a Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex. It allows users to ask questions about a collection of documents and receive answers with citations, pointing to the specific sources of information within the documents.
+This project is a web application built with Streamlit that implements a Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex. It allows users to ask questions about a collection of documents and **receive answers with citations**, pointing to the specific **sources of information** within the documents.
 
 The application uses ChromaDB as a vector store to efficiently retrieve relevant context from the documents in the `data` directory.
 
-This a screenshot of an ongoing conversation:
+These are screenshots of an ongoing conversation, showing the response of the LLM with source citation:
 
-![alt text](image.png)
+![Conversation](image.png)
+![Source citation](image-1.png)
 
 ## Features
 

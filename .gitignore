@@ -1,2 +1,3 @@
+citationenv/
 .streamlit/secrets.toml
-venv
+data/
