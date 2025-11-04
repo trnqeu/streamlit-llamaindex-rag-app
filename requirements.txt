@@ -1,0 +1,6 @@
+streamlit
+openai
+llama-index
+nltk
+chromadb
+llama-index-vector-stores-chroma
