@@ -1,3 +1,10 @@
-citationenv/
 .streamlit/secrets.toml
+secrets.toml
+venv/
 data/
+Settegiorni/
+chroma_db/
+llamaenv/
+app.py
+chroma_db/chroma.sqlite3
+citationenv/
